@@ -1,0 +1,29 @@
+{
+  "name": "videoapp_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indro10/VideoApp_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indro10/VideoApp_Backend/issues"
+  },
+  "homepage": "https://github.com/indro10/VideoApp_Backend#readme",
+  "dependencies": {
+    "config": "^3.3.2",
+    "debug": "^4.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "joi": "^13.1.0",
+    "mongoose": "^5.0.1",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.0"
+  }
+}
